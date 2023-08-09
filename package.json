@@ -1,0 +1,21 @@
+{
+  "name": "bot-mc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-protocol": "^1.44.0",
+    "mineflayer": "^4.10.1",
+    "prismarine-viewer": "^1.25.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
